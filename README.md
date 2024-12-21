@@ -26,5 +26,5 @@ Run the app and start the server
     
 ## Screenshots
 
-![Alt text](/Users/jonathantrinh/Downloads/Personal Projects/To-Do-List/DemoPhoto.png?raw=true "Demo")
+![image alt](https://github.com/Jonathan-Trinh/To-Do-List/blob/3bb93e5e9fb307238c341a95231f0ffadd7d9b7f/DemoPhoto.png?raw=true)
 
